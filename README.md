@@ -1,270 +1,268 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1D26,100:17A398&height=210&section=header&text=Santhosh%20Kumar%20R&fontSize=48&fontColor=E8FFFB&animation=fadeIn&fontAlignY=32&desc=Structural%20Bioinformatics%20%7C%20Clinical%20Genomics&descAlignY=52&descSize=18&descColor=E8FFFB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D26,100:17A398&height=200&section=header&text=Santhosh%20Kumar%20R&fontSize=46&fontColor=E8FFFB&animation=fadeIn&fontAlignY=34&desc=Medical%20Bioinformatics%20%7C%20Structural%20%26%20Genomic%20Data%20Science&descAlignY=54&descSize=17&descColor=E8FFFB" width="100%" alt="Santhosh Kumar R — Medical Bioinformatics, Structural and Genomic Data Science" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=17A398&center=true&vCenter=true&width=700&lines=M.Sc.+Bioinformatics+Student+%40+Sri+Ramachandra+IHER;Modeling+EhCP-A5+%E2%80%94+an+uncharacterized+virulence+factor;Structural+Bioinformatics+%2B+Clinical+Genomics;Python+%7C+R+%7C+PyMOL+%7C+AutoDock+Vina+%7C+AlphaFold" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3600&pause=1000&color=17A398&center=true&vCenter=true&multiline=false&width=820&height=45&lines=M.Sc.+Medical+Bioinformatics+%40+Sri+Ramachandra;Mutation-aware+drug+prioritization+for+drug-resistant+TB;Structural+ensembles+%E2%80%A2+ensemble+docking+%E2%80%A2+robustness+scoring;Python+%E2%80%A2+R+%E2%80%A2+Biopython+%E2%80%A2+Vina+%E2%80%A2+ProLIF+%E2%80%A2+Galaxy+%E2%80%A2+PyMOL" alt="Typing introduction" />
 
-<img src="https://img.shields.io/badge/Degree-M.Sc.%20Bioinformatics-17A398?style=flat-square&labelColor=0B1D26" />
-<img src="https://img.shields.io/badge/University-Sri%20Ramachandra%20IHER-17A398?style=flat-square&labelColor=0B1D26" />
-<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-17A398?style=flat-square&labelColor=0B1D26" />
+<br><br>
 
-<a href="mailto:santhoshrkumar16@gmail.com"><img src="https://img.shields.io/badge/Email-17A398?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1D26" /></a>
-<a href="https://github.com/santhoshrkumar16"><img src="https://img.shields.io/badge/GitHub-17A398?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1D26" /></a>
-<a href="https://www.linkedin.com/in/santhosh-kumar-5976ba406"><img src="https://img.shields.io/badge/LinkedIn-17A398?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1D26" /></a>
+<img src="https://img.shields.io/badge/M.Sc.%20Medical%20Bioinformatics-CGPA%209.1%2F10-17A398?style=flat-square&labelColor=0B1D26" alt="M.Sc. Medical Bioinformatics, CGPA 9.1 out of 10" />
+<img src="https://img.shields.io/badge/Sri%20Ramachandra-Chennai-17A398?style=flat-square&labelColor=0B1D26" alt="Sri Ramachandra, Chennai" />
+<img src="https://img.shields.io/badge/Published-WJBPHS%202024-17A398?style=flat-square&labelColor=0B1D26" alt="Published in WJBPHS 2024" />
 
-<img src="https://komarev.com/ghpvc/?username=santhoshrkumar16&color=17A398&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/santhoshrkumar16?style=flat-square&color=17A398&labelColor=0B1D26&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/santhoshrkumar16?style=flat-square&color=17A398&labelColor=0B1D26&label=STARS&affiliations=OWNER%2CCOLLABORATOR" />
+<br>
+
+<a href="mailto:santhoshrkumar16@gmail.com"><img src="https://img.shields.io/badge/Email-17A398?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1D26" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/santhosh-kumar-5976ba406"><img src="https://img.shields.io/badge/LinkedIn-17A398?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1D26" alt="LinkedIn" /></a>
+<a href="https://github.com/santhoshrkumar16"><img src="https://img.shields.io/badge/GitHub-17A398?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1D26" alt="GitHub" /></a>
 
 </div>
 
-<br>
+---
 
-### `$ whoami`
+## About
 
-Physician Assistant turned bioinformatician, currently building the first-ever computational structural model of **EhCP-A5**, an uncharacterized cysteine protease virulence factor of *Entamoeba histolytica* — no solved or modeled 3D structure exists for it today. Focused on the intersection of **structural bioinformatics** and **clinical genomics**.
+I'm a Physician Assistant turned bioinformatician. I spent four years in clinical settings — cardiology, pulmonology, orthopedics, community medicine, and a year assisting in surgical procedures — before moving into computational biology.
 
-```bash
-$ cat about.sh
+That path shapes how I work: I'm comfortable with the clinical context a dataset came from, and I care about whether an analysis actually answers a biological question rather than just producing output.
 
-ROLE       : M.Sc. Bioinformatics Student
-EXPERIENCE : Physician Assistant (Clinical) -> Bioinformatics
-DOMAIN     : Structural Bioinformatics | Clinical Genomics
-STACK      : Python | R | C | SQL | PyMOL | Scikit-learn
-OPEN_TO    : Bioinformatician | Computational Biologist | Clinical Variant Analyst
-```
+Right now I'm in my M.Sc. in Medical Bioinformatics at Sri Ramachandra (CGPA 9.1/10), working on structural modeling, ensemble docking, and NGS and sequence analysis.
 
 <br>
 
-### `$ tech --stack`
+## Research Focus
 
-<div align="center">
+**A mutation-aware, CPU-friendly framework for prioritizing cross-resistant RpoB inhibitor candidates in *Mycobacterium tuberculosis***
+`M.Sc. dissertation · in progress`
 
-<img src="https://skillicons.dev/icons?i=python,r,c,mysql,git,github,jupyter" />
-<br>
-<img src="https://skillicons.dev/icons?i=sklearn" />
+Rifampicin resistance in *M. tuberculosis* is driven largely by mutations in *rpoB*, and those mutations don't all break drug binding the same way — some are steric, some electrostatic, some act through changes in protein dynamics. Most virtual screening ignores this and docks against a single wild-type structure.
 
-</div>
-
-<br>
-
-### `$ specialty --badges`
-
-<div align="center">
-
-![PyMOL](https://img.shields.io/badge/PyMOL-17A398?style=flat-square&labelColor=0B1D26)
-![NCBI](https://img.shields.io/badge/NCBI-17A398?style=flat-square&labelColor=0B1D26)
-![cBioPortal](https://img.shields.io/badge/cBioPortal-17A398?style=flat-square&labelColor=0B1D26)
-![COSMIC](https://img.shields.io/badge/COSMIC-17A398?style=flat-square&labelColor=0B1D26)
-![Biopython](https://img.shields.io/badge/Biopython-17A398?style=flat-square&labelColor=0B1D26)
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-17A398?style=flat-square&labelColor=0B1D26)
-![AlphaFold](https://img.shields.io/badge/AlphaFold--Multimer-17A398?style=flat-square&labelColor=0B1D26)
-![ColabFold](https://img.shields.io/badge/ColabFold-17A398?style=flat-square&labelColor=0B1D26)
-![Kaggle](https://img.shields.io/badge/Kaggle-17A398?style=flat-square&labelColor=0B1D26)
-
-</div>
-
-<br>
-
-### `$ cat expertise.md`
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Structural Bioinformatics | ●●●●○ | Protein modeling, AlphaFold-Multimer/ColabFold, molecular docking (AutoDock Vina), PyMOL visualization |
-| Clinical Genomics | ●●●●○ | Variant interpretation, cBioPortal, COSMIC, clinical background from healthcare practice |
-| Python / R for Bioinformatics | ●●●●● | Biopython, Scikit-learn, sequence analysis, statistical modeling |
-| Molecular Docking & Modeling | ●●●○○ | Ab initio & template-based modeling, ligand-protein docking, structure validation |
-| SQL / Data Handling | ●●●○○ | DBMS-backed data pulls and cohort filtering for research datasets |
-| Clinical Practice Background | ●●●●○ | Physician Assistant training across Cardiology, Pulmonology, Orthopedics, Community Medicine |
-
-<br>
-
-### `$ ls featured_projects/`
+This project asks a different question: **which compounds hold up across a clinically realistic panel of resistance backgrounds, not just against the wild type?** The whole workflow is designed to run on a laptop — CPU only, no long molecular dynamics, no GPU cluster.
 
 <details open>
-<summary><b>🧬 EhCP-A5 Structural Characterization (M.Sc. Thesis, in progress)</b></summary>
+<summary><b>How it works</b></summary>
+
 <br>
 
-A fully computational structural bioinformatics thesis modeling **EhCP-A5**, a cysteine protease virulence factor of *Entamoeba histolytica* with near-zero prior structural characterization and no existing solved or modeled 3D structure.
+| Stage | What happens |
+| :--- | :--- |
+| **Mutation panel** | Tiered, versioned *rpoB* panel built from the WHO mutation catalogue and primary literature — high-confidence, less-frequent, disputed, and outside-RRDR variants, with alignment-verified Mtb↔*E. coli* numbering |
+| **Structural models** | QC'd models of wild-type RpoB, each panel mutant, and selected compensatory *rpoA*/*rpoC* backgrounds — built via two independent protocols and diffed to confirm only the intended residue changed |
+| **Flexibility ensembles** | Normal mode analysis (ANM) to capture mutation-induced changes in low-frequency collective motion near the rifampicin pocket, yielding a small conformational ensemble per model |
+| **Two-track docking** | Calibrated ensemble docking of a chemically diverse library against the canonical rifampicin pocket (Track A) and a literature-supported alternative site (Track B), with redocking and active-vs-decoy calibration |
+| **Interaction fingerprints** | Residue-level fingerprinting of every pose to measure retention of *a priori* key contacts across the ensemble |
+| **Robustness score** | A decomposed, transparent score — rank, contact retention, pose consistency, site coverage, chemical quality — kept visible rather than collapsed into one docking number |
+| **Stress testing** | Weight-sensitivity analysis, leave-one-mutation-out analysis, and chemical-diversity clustering to check whether rankings actually survive perturbation |
 
-| | |
-|---|---|
-| **Stack** | AlphaFold-Multimer / ColabFold, AutoDock Vina, PyMOL, Python |
-| **Scale** | Full 5-month independent computational thesis (~5–10 hrs/week) |
-| **Impact** | First computational structural model attempt for this uncharacterized virulence factor |
-| **Status** | 🔄 In progress — repository private |
+**Core hypotheses:** resistance mutations cluster into distinct mechanistic classes rather than one uniform mechanism; ensemble docking across mutant and compensatory backgrounds surfaces cross-variant robust compounds that single wild-type docking misses; and the top compounds by raw docking score are generally *not* the top compounds by robustness.
 
 </details>
 
 <details>
-<summary><b>📊 Digital Addiction Scale — Cross-Sectional Study (Published Academic Project)</b></summary>
+<summary><b>Toolchain — dual implementation</b></summary>
+
 <br>
 
-A cross-sectional research study assessing digital addiction among young adults using the Digital Addiction Scale, conducted as an academic thesis project with a team of 3.
+The methodology is implemented twice, so the workflow is reproducible whether or not the user can script.
+
+**Scripted pipeline (CLI)** — reproducible, version-controlled, identical parameters across every model
+`ProDy` · `Biopython` · `RDKit` · `Open Babel` · `MODELLER` · `AutoDock Vina` · `Meeko` · `ProLIF` · `PyMOL` · `pandas` · `NumPy` · `scikit-learn` · `conda` · `git`
+
+**No-code equivalent (GUI/web)** — same ten phases at pilot scale
+`UCSF ChimeraX` · `PyRx` · `SWISS-MODEL` · `MolProbity` · `PDB2PQR/PROPKA` · `iMODS` · `CABS-flex` · `CASTp` · `PrankWeb` · `Clustal Omega` · `PLIP` · `SwissADME` · `ProTox-3.0` · `DataWarrior`
+
+</details>
+
+> **Scope, stated plainly:** this is a computational prioritization and hypothesis-generation framework. It does not claim enzymatic inhibition, whole-cell activity, pharmacokinetics, or clinical efficacy. The dissertation includes an explicit staged roadmap separating what was computationally established from what would require experimental follow-up.
+
+**Repository:** private during evaluation · the pipeline is intended for open release so others can point it at new mutation panels or compound libraries.
+
+<br>
+
+## Technical Skills
+
+### Core toolkit
+
+| Area | Level | Detail |
+| :--- | :---: | :--- |
+| **Python for bioinformatics** | ●●●●○ | Biopython, NumPy, Pandas — sequence parsing, annotation, pipeline scripting |
+| **R & Bioconductor** | ●●●○○ | Genomic data analysis, statistical analysis of study data |
+| **NGS data analysis** | ●●●○○ | Galaxy platform pipeline execution, read processing, gene annotation |
+| **Sequence analysis** | ●●●●○ | BLAST, multiple sequence alignment, phylogenetics, algorithm implementation |
+| **Transcriptomics & genomics** | ●●●○○ | Coursework-level differential expression and annotation workflows |
+| **Linux / command line** | ●●●○○ | Bash, CLI genomic tooling (Johns Hopkins certified) |
+| **SQL & DBMS** | ●●●○○ | Query writing, schema basics, web-backed data handling |
+| **Structural visualization** | ●●●○○ | PyMOL, protein structure inspection and figure generation |
+| **Clinical domain knowledge** | ●●●●● | 4 years hands-on: patient assessment, lab test interpretation, medical documentation |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Biopython-17A398?style=flat-square&labelColor=0B1D26" alt="Biopython" />
+<img src="https://img.shields.io/badge/Bioconductor-17A398?style=flat-square&labelColor=0B1D26" alt="Bioconductor" />
+<img src="https://img.shields.io/badge/Galaxy-17A398?style=flat-square&labelColor=0B1D26" alt="Galaxy platform" />
+<img src="https://img.shields.io/badge/NCBI%20%2F%20BLAST-17A398?style=flat-square&labelColor=0B1D26" alt="NCBI and BLAST" />
+<img src="https://img.shields.io/badge/PyMOL-17A398?style=flat-square&labelColor=0B1D26" alt="PyMOL" />
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+
+</div>
+
+### Building up through the dissertation
+
+Actively learning these on the RpoB project — not yet production experience.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AutoDock%20Vina-0F6E64?style=flat-square&labelColor=0B1D26" alt="AutoDock Vina" />
+<img src="https://img.shields.io/badge/ProDy%20%2F%20NMA-0F6E64?style=flat-square&labelColor=0B1D26" alt="ProDy and normal mode analysis" />
+<img src="https://img.shields.io/badge/ProLIF-0F6E64?style=flat-square&labelColor=0B1D26" alt="ProLIF" />
+<img src="https://img.shields.io/badge/RDKit-0F6E64?style=flat-square&labelColor=0B1D26" alt="RDKit" />
+<img src="https://img.shields.io/badge/MODELLER-0F6E64?style=flat-square&labelColor=0B1D26" alt="MODELLER" />
+<img src="https://img.shields.io/badge/ChimeraX-0F6E64?style=flat-square&labelColor=0B1D26" alt="UCSF ChimeraX" />
+<img src="https://img.shields.io/badge/scikit--learn-0F6E64?style=flat-square&labelColor=0B1D26" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Reproducible%20Pipelines-0F6E64?style=flat-square&labelColor=0B1D26" alt="Reproducible pipelines" />
+
+</div>
+
+<br>
+
+## Publication
+
+**A Cross-sectional Study Assessing Digital Addiction among Young Adults using the Digital Addiction Scale**
+*World Journal of Biology Pharmacy and Health Sciences* (WJBPHS), Aug 2024 · Vol. 19, Issue 02
+
+<details>
+<summary><b>Study details</b></summary>
+
+<br>
+
+Cross-sectional epidemiological study on digital addiction prevalence among 500+ young adults, run as a B.Sc. academic research project with a team of 3 (Oct 2023 – Jul 2024).
 
 | | |
-|---|---|
-| **Stack** | Statistical analysis, survey-based data collection |
-| **Scale** | Team of 3 · Oct 2023 – Jul 2024 |
-| **Impact** | Published in World Journal of Biology Pharmacy and Health Sciences (WJBPHS), Aug 2024, Vol. 19, Issue 02 |
-| **My Role** | Data collection & sampling, statistical derivation with mentor, thesis editing & formatting, presented findings to cohort and faculty |
+| :--- | :--- |
+| **My role** | Study lead — survey instrument design using the Digital Addiction Scale, sampling and data collection, statistical analysis in R, interpretation and write-up |
+| **Motivation** | Rising concern over technology-driven mental health impacts, with limited regional data available |
+| **Outcome** | Published in WJBPHS; findings adopted by the university psychology department for student wellness programming |
+| **Presented to** | Cohort and faculty at Dr. M.G.R. Educational and Research Institute |
 
 </details>
 
 <br>
 
-### `$ log --experience --reverse`
+## Education
 
-**Hair Transplant (HT) Assistant** · Kolors Healthcare Pvt. Ltd.
-`Oct 2025 – Jun 2026`
-- Assisted in hair extraction and implantation procedures
-- Supported PRP (Platelet-Rich Plasma) procedures
-- Maintained client records and procedure data in Excel
+**M.Sc. Medical Bioinformatics** — Sri Ramachandra Institute of Higher Education and Research, Chennai
+`Aug 2025 – Present` · CGPA **9.1/10** · Semester 2 completed
 
-`Skills:` ![](https://img.shields.io/badge/-Clinical%20Procedures-0F6E64?style=flat-square) ![](https://img.shields.io/badge/-Patient%20Care-0F6E64?style=flat-square) ![](https://img.shields.io/badge/-Excel-0F6E64?style=flat-square)
+<sub>Coursework: Cell &amp; Molecular Biology · Biochemistry &amp; Immunology · Mathematics &amp; Statistics · Fundamentals of Programming · Biophysics &amp; Proteomics · Sequence Analysis &amp; Algorithms · Genomics &amp; Transcriptomics · Programming with Python · DBMS &amp; Web Technology</sub>
+
+**B.Sc. Physician Assistant** — Dr. M.G.R. Educational and Research Institute, Chennai
+`Dec 2020 – Sep 2024` · CGPA **9.0/10**
 
 <br>
 
-**Physician Assistant (Internship)** · ACS Medical College and Hospitals (ACSMCH), Chennai
+## Experience
+
+**Hair Transplant Assistant** — Kolors Healthcare Pvt. Ltd., Chennai
+`Oct 2024 – Jul 2025`
+
+Assisted in hair transplant surgeries and post-operative care in a clinical OT setting, handling roughly 13 patients a month. Performed pre-procedure counselling, test dose and local anaesthesia administration, and PRP injections on a case-by-case basis. Maintained OT standards working alongside the Chief Cosmetologist.
+
+<br>
+
+**Physician Assistant** — Primary care / clinic practice
+
+Supported daily clinic operations at roughly 12 patients a day: IV line setup, wound dressing, catheter flushing, IM injections, plus pharmacy assistance and medication counselling.
+
+<br>
+
+**Physician Assistant Intern** — ACS Medical College and Hospitals, Chennai
 `Oct 2023 – Sep 2024`
-- Worked closely with doctors, nurses, and senior physician assistants across Cardiology, Pulmonology, Orthopedics, and Community Medicine
-- Trained at ACSMCH, established in 2008 under the Dr. MGR Institute for physician assistant and trainee doctor education
-- Concurrently led an academic research project on digital addiction, later published in WJBPHS
 
-`Skills:` ![](https://img.shields.io/badge/-Clinical%20Rotations-0F6E64?style=flat-square) ![](https://img.shields.io/badge/-Research-0F6E64?style=flat-square) ![](https://img.shields.io/badge/-Patient%20Care-0F6E64?style=flat-square)
+Rotated across Cardiology, Pulmonology, Orthopedics, and Community Medicine with doctors, nurses, and senior physician assistants. Hands-on patient assessment, clinical documentation, lab test interpretation, and multidisciplinary team coordination. Ran the digital addiction research project concurrently.
 
 <br>
 
-### `$ cat achievements.md`
-
-<div align="center">
-
-| Achievement | Detail |
-|---|---|
-| 📄 Published Research Paper | *"A Cross-sectional Study that Assessed Digital Addiction among Young Adults using the Digital Addiction Scale"* — WJBPHS, Aug 2024, Vol. 19, Issue 02 |
-| 🎓 M.Sc. Thesis Presentation | Presented digital addiction research project to cohorts and faculty at university |
-| 🧪 Novel Thesis Direction | Selected to computationally model EhCP-A5 — a virulence factor with no prior solved or modeled 3D structure |
-
-</div>
-
-<br>
-
-### `$ cat certifications.md`
+## Certifications
 
 | Certification | Issuer | Issued | Credential ID |
-|---|---|---|---|
-| Bioconductor for Genomic Data Science | Johns Hopkins University | Aug 2026 | P6AXNMJBCWDS |
-| Command Line Tools for Genomic Data Science | Johns Hopkins University | Aug 2026 | 3AGT6D263TFJ |
-| Introduction to Genomic Technologies | Johns Hopkins University | Aug 2026 | WU0EJFDB3C27 |
-| Python for Genomic Data Science | Johns Hopkins University | Aug 2026 | X5BI7XP0MWC4 |
-| Python for Data Science, AI & Development | IBM | Aug 2026 | BEEMGZNE19E9 |
-| AI Tools Workshop | Be10x | May 2026 | 0270772f-3809-4400-b29b-1e1c61cd09971286236 |
+| :--- | :--- | :--- | :--- |
+| Command Line Tools for Genomic Data Science | Johns Hopkins University (Coursera) | Aug 2026 | `3AGT6D263TFJ` |
+| Bioconductor for Genomic Data Science | Johns Hopkins University (Coursera) | Aug 2026 | `P6AXNMJBCWDS` |
+| Python for Genomic Data Science | Johns Hopkins University (Coursera) | Aug 2026 | `X5BI7XP0MWC4` |
+| Introduction to Genomic Technologies | Johns Hopkins University (Coursera) | Aug 2026 | `WU0EJFDB3C27` |
+| Python for Data Science, AI &amp; Development | IBM (Coursera) | Aug 2026 | `BEEMGZNE19E9` |
+| AI Tools Workshop | Be10x | May 2026 | `0270772f-3809-4400-b29b-1e1c61cd0997` |
 
 <br>
 
-### `$ cat education.md`
-
-<div align="center">
-
-[![Education](https://img.shields.io/badge/M.Sc.%20Bioinformatics-Sri%20Ramachandra%20Institute%20of%20Higher%20Education%20%26%20Research-17A398?style=for-the-badge&labelColor=0B1D26)](https://github.com/santhoshrkumar16)
-
-[![Education](https://img.shields.io/badge/B.Sc.-Dr.%20M.G.R.%20Educational%20%26%20Research%20Institute-17A398?style=for-the-badge&labelColor=0B1D26)](https://github.com/santhoshrkumar16)
-
-</div>
-
-<br>
-
-### `$ github --analytics`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santhoshrkumar16&show_icons=true&theme=transparent&hide_border=true&title_color=17A398&icon_color=17A398&text_color=E8FFFB&bg_color=0B1D26" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshrkumar16&layout=compact&theme=transparent&hide_border=true&title_color=17A398&text_color=E8FFFB&bg_color=0B1D26" />
-
-<img src="https://streak-stats.demolab.com?user=santhoshrkumar16&theme=transparent&hide_border=true&background=0B1D26&ring=17A398&fire=17A398&currStreakLabel=17A398&sideLabels=E8FFFB&currStreakNum=E8FFFB&sideNums=E8FFFB&dates=E8FFFB" />
-
-</div>
-
-<br>
-
-### `$ github --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshrkumar16&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true" />
-
-</div>
-
-<br>
-
-### `$ github --activity-graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshrkumar16&bg_color=0B1D26&color=17A398&line=17A398&point=E8FFFB&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
-### `$ github --summary`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=santhoshrkumar16&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=santhoshrkumar16&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=santhoshrkumar16&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=santhoshrkumar16&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=santhoshrkumar16&theme=github_dark" />
-
-</div>
-
-<br>
-
-### `$ ./snake.sh --run`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/santhoshrkumar16/santhoshrkumar16/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br>
-
-### `$ cat current_focus.yaml`
+## Current Focus
 
 ```yaml
-learning:
-  - Protein structure prediction (AlphaFold-Multimer / ColabFold)
-  - Molecular docking (AutoDock Vina)
-
 building:
-  - EhCP-A5 structural characterization (M.Sc. thesis)
+  - RpoB inhibitor prioritization framework (M.Sc. dissertation)
+  - Tiered rpoB mutation panel from the WHO catalogue
+  - CPU-only structural ensemble + two-track docking pipeline
+  - Decomposed robustness score, stress-tested for rank stability
+
+learning:
+  - Mutant modeling and model QC (MODELLER, ChimeraX, MolProbity)
+  - Normal mode analysis for CPU-friendly flexibility ensembles
+  - Ensemble docking and calibration (AutoDock Vina, Meeko)
+  - Interaction fingerprinting (ProLIF, PLIP) and cheminformatics (RDKit)
+  - Reproducible pipeline practice: versioned manifests, run logs, checksums
 
 exploring:
-  - Clinical variant interpretation
-  - Cancer & structural genomics
+  - Antimicrobial resistance mechanisms and resistance-barrier prediction
+  - Structure-based drug design beyond single-structure docking
+  - Machine learning for biological and chemical data
 
 open_to:
-  - Bioinformatician
+  - Bioinformatics Analyst
   - Computational Biologist
-  - Clinical Variant Analyst
+  - Computer-Aided Drug Design / Structural Bioinformatics roles
 ```
 
 <br>
 
-### `$ connect --with-me`
+## GitHub
 
 <div align="center">
 
-<a href="mailto:santhoshrkumar16@gmail.com"><img src="https://img.shields.io/badge/Email-17A398?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1D26" /></a>
-<a href="https://github.com/santhoshrkumar16"><img src="https://img.shields.io/badge/GitHub-17A398?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1D26" /></a>
-<a href="https://www.linkedin.com/in/santhosh-kumar-5976ba406"><img src="https://img.shields.io/badge/LinkedIn-17A398?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1D26" /></a>
+<a href="https://github.com/santhoshrkumar16"><img src="https://komarev.com/ghpvc/?username=santhoshrkumar16&color=17A398&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/santhoshrkumar16?tab=followers"><img src="https://img.shields.io/github/followers/santhoshrkumar16?style=for-the-badge&color=17A398&labelColor=0B1D26&label=FOLLOWERS" alt="GitHub followers" /></a>
+<a href="https://github.com/santhoshrkumar16?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-View-17A398?style=for-the-badge&labelColor=0B1D26" alt="View repositories" /></a>
+
+</div>
+
+<br>
+
+Most of my current work lives in the dissertation repository, which stays private until evaluation. Once the RpoB pipeline is released, it'll be the main thing here — a reproducible, CPU-only workflow others can point at new mutation panels or compound libraries.
+
+<br>
+
+<div align="center">
+
+### Let's connect
+
+<a href="mailto:santhoshrkumar16@gmail.com"><img src="https://img.shields.io/badge/Email-17A398?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1D26" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/santhosh-kumar-5976ba406"><img src="https://img.shields.io/badge/LinkedIn-17A398?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1D26" alt="LinkedIn" /></a>
 
 <br><br>
 
-*"Every unsolved structure is just a hypothesis waiting to be folded."*
+<i>"Resistance is a moving target — so the model should be too."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17A398,100:0B1D26&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=E8FFFB&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17A398,100:0B1D26&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=E8FFFB&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
