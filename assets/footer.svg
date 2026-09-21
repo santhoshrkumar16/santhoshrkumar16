@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-labelledby="ftrTitle">
+  <title id="ftrTitle">Thanks for visiting</title>
+
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#17A398"/>
+      <stop offset="50%" stop-color="#0F6E64"/>
+      <stop offset="100%" stop-color="#0B1D26"/>
+    </linearGradient>
+
+    <!-- Wave along the TOP edge, plate fills downward -->
+    <clipPath id="fwave">
+      <path d="M0,52
+               C100,22 200,82 300,52
+               C400,22 500,82 600,52
+               C700,22 800,82 900,52
+               C1000,22 1100,82 1200,52
+               V140 H0 Z"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#fwave)">
+    <rect width="1200" height="140" fill="url(#fbg)"/>
+  </g>
+
+  <text x="600" y="112" text-anchor="middle" font-size="20" font-weight="600"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        fill="#E8FFFB" letter-spacing="0.5">Thanks for visiting</text>
+</svg>
