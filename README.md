@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D26,100:17A398&height=200&section=header&text=Santhosh%20Kumar%20R&fontSize=46&fontColor=E8FFFB&animation=fadeIn&fontAlignY=34&desc=Medical%20Bioinformatics%20%7C%20Structural%20%26%20Genomic%20Data%20Science&descAlignY=54&descSize=17&descColor=E8FFFB" width="100%" alt="Santhosh Kumar R — Medical Bioinformatics, Structural and Genomic Data Science" />
+<img src="./assets/header.svg" width="100%" alt="Santhosh Kumar R — Medical Bioinformatics, Structural and Genomic Data Science" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3600&pause=1000&color=17A398&center=true&vCenter=true&multiline=false&width=820&height=45&lines=M.Sc.+Medical+Bioinformatics+%40+Sri+Ramachandra;Mutation-aware+drug+prioritization+for+drug-resistant+TB;Structural+ensembles+%E2%80%A2+ensemble+docking+%E2%80%A2+robustness+scoring;Python+%E2%80%A2+R+%E2%80%A2+Biopython+%E2%80%A2+Vina+%E2%80%A2+ProLIF+%E2%80%A2+Galaxy+%E2%80%A2+PyMOL" alt="Typing introduction" />
+<img src="./assets/typing.svg" width="700" alt="M.Sc. Medical Bioinformatics at Sri Ramachandra · mutation-aware drug prioritization for drug-resistant TB · structural ensembles, ensemble docking, robustness scoring" />
 
 <br><br>
 
@@ -113,8 +113,9 @@ The methodology is implemented twice, so the workflow is reproducible whether or
 <img src="https://img.shields.io/badge/NCBI%20%2F%20BLAST-17A398?style=flat-square&labelColor=0B1D26" alt="NCBI and BLAST" />
 <img src="https://img.shields.io/badge/PyMOL-17A398?style=flat-square&labelColor=0B1D26" alt="PyMOL" />
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
 </div>
 
@@ -263,6 +264,6 @@ Most of my current work lives in the dissertation repository, which stays privat
 
 <i>"Resistance is a moving target — so the model should be too."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17A398,100:0B1D26&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=E8FFFB&animation=twinkling" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
